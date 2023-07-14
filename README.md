@@ -1,3 +1,4 @@
+<h1 align="center">Hola 👋 </h1>
 <h3 align="center">Mi nombre es Manuel, soy de Venezuela y actualmente vivo en Chile.</h3>
 
 <h3 align="left">Connect with me:</h3>
