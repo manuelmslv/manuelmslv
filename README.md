@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 </h1>
-<h3 align="center">Mi nombre es Manuel, soy de Venezuela y actualmente vivo en Chile.</h3>
+<h3 align="center">Mi nombre es Manuel. Actualmente estoy en el área de Infraestructura y cuento con habilidades de desarrollo de Sotfware las cuales estoy mejorando constantemente 👍</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
